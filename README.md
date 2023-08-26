@@ -1,3 +1,10 @@
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=FVazquezRisso&&style=flat-square" align="center" />
+</div> 
+
+<br/>  
+
 <div align="center">
 <img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" align="center" style="width: 100%" />
 </div>  
@@ -32,10 +39,41 @@ Desde los 15 años he sentido un gran interés por la programación y el desarro
 </div>
  
 
+  
+
 <br/>  
 
 
-## Conecta conmigo
+## Github Stats  
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=fvazquezrisso&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fvazquezrisso&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=fvazquezrisso&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+
+ <hr/>  
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+ 
+<br/>  
+
+
 <div align="center">
 <a href="https://github.com/FVazquezRisso" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -44,38 +82,7 @@ Desde los 15 años he sentido un gran interés por la programación y el desarro
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=FVazquezRisso&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=yxukjbkkjvxireesii71btywg&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=FVazquezRisso&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
