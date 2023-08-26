@@ -1,10 +1,16 @@
 <div align="center">
 <img src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif" align="center" style="width: 100%" />
 </div>  
-  
 
 # <div align="center">👇 Un poco sobre mí 👇
 Desde los 15 años he sentido un gran interés por la programación y el desarrollo de software. Sin embargo, no fue hasta este año que decidí tomarlo realmente en serio. En mayo de 2023, me embarqué en el bootcamp "Soy Henry" para reforzar mis conocimientos en desarrollo web, y hasta ahora no me arrepiento en lo más mínimo. Gracias a la intensidad del curso y a mi compromiso, he logrado fortalecer enormemente mis habilidades en desarrollo web full-stack. Actualmente, sigo aprendiendo de forma constante mientras busco una oportunidad laboral que me permita aplicar mis conocimientos y adquirir experiencia en un entorno real.</div>  
+
+<br/>  
+
+
+## Otros datos interesantes: 
+- Actualmente estoy aprendiendo Python y Django.
+- Disfruto más desarrollar aplicaciones backend que fontend.
   
 
 <br/>  
