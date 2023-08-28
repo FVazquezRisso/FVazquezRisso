@@ -15,10 +15,11 @@ Desde los 15 años he sentido un gran interés por la programación y el desarro
 <br/>  
 
 
+<!--
 ## Otros datos interesantes: 
 - Actualmente estoy aprendiendo Python.
 - Disfruto más desarrollar aplicaciones backend que fontend.
-  
+-->
 
 <br/>  
 
